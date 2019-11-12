@@ -1,5 +1,7 @@
 # bamazon
 
+This Amazon-like storefront app will take in orders from customers and deplete stock from the store's inventory.
+
 ## Third-party Node Modules
 
 Bamazon uses these node modules: 
@@ -28,4 +30,8 @@ They are all dependencies in the [package.json](https://github.com/Meggin/bamazo
 To run this module in the terminal:
 
 `node bamazonCustomer.js`
+
+## Demo
+<img src="bamazon.gif" alt="Demo">
+
 
