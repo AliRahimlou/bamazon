@@ -9,7 +9,7 @@ Bamazon uses these node modules:
 [`inquirer`](https://www.npmjs.com/package/inquirer), 
 [`mysql`](https://www.npmjs.com/package/mysql).
 
-They are all dependencies in the [package.json](https://github.com/Meggin/bamazon/blob/master/package.json), so just run:
+They are all dependencies in the [package.json](https://github.com/AliRahimlou/bamazon/blob/master/package.json), so just run:
 
 `npm install`
 
