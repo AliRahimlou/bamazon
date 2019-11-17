@@ -5,7 +5,7 @@ This Amazon-like storefront app will take in orders from customers and deplete s
 ## Third-party Node Modules
 
 Bamazon uses these node modules: 
-[`console.table`](https://www.npmjs.com/package/console.table),
+[`cli-table`](https://www.npmjs.com/package/cli-table),
 [`inquirer`](https://www.npmjs.com/package/inquirer), 
 [`mysql`](https://www.npmjs.com/package/mysql).
 
